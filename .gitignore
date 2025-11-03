@@ -1,0 +1,9 @@
+.venv
+.vscode
+
+/sdk
+/templates
+/exampleTemplates
+/index
+
+results_query.json
